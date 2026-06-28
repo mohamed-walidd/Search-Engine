@@ -4,11 +4,11 @@ Search <i style="color: rgb(11 149 212);font-family:cursive">K<i style="color:#c
 
 ## 💻 Technologies Used <a name = "tech"></a>
 - Java
-- react
-- Json server
+- React
 - Mysql
-- servlet
-
+- Servlet
+- Apache Tomcat
+  
 ### ✨ Contributors
 <table>
   <tr>
