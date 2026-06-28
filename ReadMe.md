@@ -1,15 +1,6 @@
 # :mag: <i style="color: rgb(11 149 212);font-family:cursive">K<i style="color:#c7c2c2">3</i>M</i>
-Search <i style="color: rgb(11 149 212);font-family:cursive">K<i style="color:#c7c2c2">3</i>M</i> is a search engine similar to Google, Yahoo, and Bing. The repo contains the engine's frontend, backend, crawler, and indexer.
+Search <i style="color: rgb(11 149 212);font-family:cursive">K<i style="color:#c7c2c2">3</i>M</i> is a full-stack, distributed web search engine built from scratch in Java. Features a concurrent web crawler, an efficient inverted indexer, a high-performance backend, and an intuitive frontend UI..
 
-
-## 📷 Screenshots
-<div align="center">
-  <img src="https://github.com/MahmoudRedaSayed/Sreach-Engine/blob/main/Pics/Searchpage.PNG">
-  <img src="https://github.com/MahmoudRedaSayed/Sreach-Engine/blob/main/Pics/suggest.PNG">
-  <img src="https://github.com/MahmoudRedaSayed/Sreach-Engine/blob/main/Pics/Results.PNG">
-   <img src="https://github.com/MahmoudRedaSayed/Sreach-Engine/blob/main/Pics/Errorpage.PNG">
-
-</div>
 
 ## 💻 Technologies Used <a name = "tech"></a>
 - Java
